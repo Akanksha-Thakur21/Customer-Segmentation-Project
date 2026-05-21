@@ -43,3 +43,5 @@ The dataset includes:
 - Funnel Chart: Review Rating by Category
 - Area Chart: Purchase Amount by Shipping Type
 - Scatter Plot:# Customer-Segmentation-Project
+- <img width="1443" height="809" alt="image" src="https://github.com/user-attachments/assets/ba258561-95ed-4ec8-a3e6-d0512b0d0be7" />
+
